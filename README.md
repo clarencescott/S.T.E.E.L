@@ -64,8 +64,8 @@ Welcome to the Engineering Portfolio Project! This initiative is designed to ass
 ## Canva UI/UX Designs
 To view our UI/UX designs created with Canva, click the links below:
 
-- [Blue Gradient Design](https://www.canva.com/design/DAGMb_W3BHQ/xkYUVpGy49gKfT004JcW7w/edit?utm_content=DAGMb_W3BHQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-- [Grey Site Design](https://www.canva.com/design/DAGMcmQIT48/ULtJiFmrYxXNnKWUkfzvaQ/edit?utm_content=DAGMcmQIT48&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [Blue Gradient Design](https://www.canva.com/design/DAGMb_W3BHQ/A79GCCoAk_LPBRCNM0eqyw/view?mode=prototype)
+- [Grey Site Design](https://www.canva.com/design/DAGMcmQIT48/DxgQnUMTWieiGB78awTQ3Q/view?mode=prototype)
 - [Custom Design Option]
 
 ## Contact Us
@@ -75,16 +75,24 @@ To view our UI/UX designs created with Canva, click the links below:
 
 ## FAQs
 Q: What if I don't have any prior coding experience?
+
 A: No problem! This project is designed for all skill levels, and we provide all the necessary resources and support to help you succeed.
 
+
 Q: How often will I receive support?
+
 A: You will receive weekly support sessions to assist with your portfolio development and any questions you might have.
 
+
 Q: Can I continue updating my portfolio after the project ends?
+
 A: Absolutely! Your GitHub repository and GitHub Pages site will remain active, allowing you to continue updating your portfolio as you grow your skills.
 
+
 Q: Are there any success stories or testimonials from previous participants?
+
 A: As this is the first session of this program, we do not have testimonials specific to it. However, we have success stories from individuals we have helped with STEM/STEAM technologies and programming.
+
 
 ## Join Us
 Sign up today and start building a portfolio that will help you achieve your engineering career goals!

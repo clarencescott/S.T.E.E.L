@@ -1,7 +1,7 @@
 # Flint2ME Project
 
 ## What is Flint2Me?
-Flint2Me is a project I would like to begin, offering very cheap pricing to assist highschoolers looking to get into engineering careers, highschool graduates actively preparing for engineering studies in college OR college students with minimal coding abilities looking to start a portfolio for themselves.
+Flint2ME is a project I would like to begin, offering very cheap pricing to assist highschoolers looking to get into engineering careers, highschool graduates actively preparing for engineering studies in college OR college students with minimal coding abilities looking to start a portfolio for themselves.
 
 This project will have all the details in this README.md document once I have ironed out all the specifics. Flint2Me will also be available to middle-schoolers who are in some form of STEAM/STEM/Robotics acitivities.
 
@@ -61,10 +61,17 @@ Welcome to the Engineering Portfolio Project! This initiative is designed to ass
 - Resources Provided: A variety of tutorials and documentation will be available through YouTube, Google Docs, Discord, and more.
 - Refund Policy: There is no refund policy due to the resources provided. The $20 payment is a one-time fee that grants lifetime access to support and resources.
 
+## Canva UI/UX Designs
+To view our UI/UX designs created with Canva, click the links below:
+
+- [Blue Gradient Design](https://www.canva.com/design/DAGMb_W3BHQ/xkYUVpGy49gKfT004JcW7w/edit?utm_content=DAGMb_W3BHQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [Grey Site Design](https://www.canva.com/design/DAGMcmQIT48/ULtJiFmrYxXNnKWUkfzvaQ/edit?utm_content=DAGMcmQIT48&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [Custom Design Option]
+
 ## Contact Us
-- Email: [Your email address]
-- Website: [Your website]
-- GitHub: [Your GitHub profile]
+- Email: scottclarence5@gmail.com
+- Website: https://clarencescott.tech/
+- GitHub: https://github.com/clarencescott/
 
 ## FAQs
 Q: What if I don't have any prior coding experience?

@@ -46,7 +46,9 @@ Welcome to the Engineering Portfolio Project! This initiative is designed to ass
 - Preparation for job applications and college admissions
 
 ## Cost
-- Participation Fee: $20 per student
+- Participation Fee:
+-- $20 per student
+-- $50 for ages 21+
 
 ## How to Join
 - Sign Up: [Link to sign-up form]

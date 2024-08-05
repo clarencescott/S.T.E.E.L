@@ -7,6 +7,10 @@ S.T.E.E.L is <b>Students Thriving in Engineering & Emerging Leadership</b>. It i
 Please download or review each of the documents below.
 Disclaimer - [Disclaimer for Parents and Participants](Disclaimer.pdf)
 Code of Conduct - [Code of Conduct for Parents and Participants](Conduct.pdf)
+#### Google Forms
+[Registration Form](https://forms.gle/2HCqBhJEhUnYet8z6)
+[Anonymous Reporting Form](https://forms.gle/3GarcWXnQY9po6fc6)
+
 
 # S.T.E.E.L Portfolio Project
 ## Overview

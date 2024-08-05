@@ -64,8 +64,8 @@ Welcome to the Engineering Portfolio Project! This initiative is designed to ass
   2. $25 for ages 21+
 
 ## How to Join
-- Sign Up: [Link to sign-up form]
-- Payment: Secure your spot by paying the participation fee.
+- Sign Up: [Registration Form](https://forms.gle/2HCqBhJEhUnYet8z6)
+- Payment: Secure your spot by paying the participation fee after onboarding meeting with Founder.
 - Start Building: Begin the journey to create an impressive web portfolio.
 
 ## Additional Details

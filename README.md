@@ -19,7 +19,7 @@ Code of Conduct - [Code of Conduct for Parents and Participants](Conduct.pdf)
 
 # S.T.E.E.L Portfolio Project
 ## Overview
-Welcome to the Engineering Portfolio Project! This initiative is designed to assist middle and high school students aged 10-20 who are passionate about pursuing careers in engineering. By participating in this project, students will have the opportunity to build professional web portfolios using HTML, CSS, and JavaScript (including React and Node.js). These portfolios will showcase their skills, projects, and achievements, helping them stand out to potential employers and college admissions committees.
+Welcome to the Engineering Portfolio Project! This initiative is designed to assist middle and high school students aged 10-17 (and adults 18+) who are passionate about pursuing careers in engineering. By participating in this project, participants will have the opportunity to build professional web portfolios using HTML, CSS, and JavaScript (including React and Node.js). These portfolios will showcase their skills, projects, and achievements, helping them stand out to potential employers and college admissions committees.
 
 ## Features
 - Comprehensive Portfolio Building: Students will create dynamic and professional web portfolios.

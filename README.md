@@ -1,4 +1,4 @@
-# S.T.E.E.L Project
+# S.T.E.E.L Project [STEEL Website](https://s-t-e-e-l.vercel.app/)
 
 ## What is S.T.E.E.L?
 S.T.E.E.L is <b>Students Thriving in Engineering & Emerging Leadership</b>. It is a project I would like to begin, offering very cheap pricing to assist highschoolers looking to get into engineering careers, highschool graduates actively preparing for engineering studies in college OR college students with minimal coding abilities looking to start a portfolio for themselves.

@@ -81,7 +81,7 @@ To view our UI/UX designs created with Canva, click the links below:
 
 - [Blue Gradient Design](https://www.canva.com/design/DAGMb_W3BHQ/A79GCCoAk_LPBRCNM0eqyw/view?mode=prototype)
 - [Grey Site Design](https://www.canva.com/design/DAGMcmQIT48/DxgQnUMTWieiGB78awTQ3Q/view?mode=prototype)
-- [Custom Design Option]
+- [Templates](template1.html)(template2.html)(template3.html)
 
 ## Contact Us
 - Email: scottclarence5@gmail.com

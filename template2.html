@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <style>/* General Styles */
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            height: 100vh;
+            overflow: hidden;
+        }
+        
+        .sidebar {
+            width: 250px;
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: space-between;
+        }
+        
+        .sidebar .logo {
+            text-align: center;
+        }
+        
+        .sidebar nav ul {
+            list-style: none;
+            padding: 0;
+            margin-top: 20px;
+            width: 100%;
+            text-align: center;
+        }
+        
+        .sidebar nav ul li {
+            margin: 15px 0;
+        }
+        
+        .sidebar nav ul li a {
+            color: #fff;
+            text-decoration: none;
+            font-weight: bold;
+            display: block;
+            padding: 10px;
+            border-radius: 8px;
+            transition: background-color 0.3s ease;
+        }
+        
+        .sidebar nav ul li a:hover {
+            background-color: #555;
+        }
+        
+        main {
+            flex: 1;
+            overflow-y: auto;
+            background-color: #f4f4f4;
+            padding: 20px;
+        }
+        
+        /* Hero Section */
+        .hero {
+            background: linear-gradient(to right, #ff7e5f, #feb47b);
+            color: #fff;
+            padding: 150px 20px;
+            text-align: center;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+        }
+        
+        .hero .content {
+            max-width: 600px;
+        }
+        
+        .hero h1 {
+            font-size: 48px;
+            margin-bottom: 20px;
+        }
+        
+        .hero p {
+            font-size: 20px;
+            margin-bottom: 30px;
+        }
+        
+        .hero .btn {
+            padding: 15px 30px;
+            background-color: #fff;
+            color: #ff7e5f;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            text-decoration: none;
+            font-weight: bold;
+            transition: background-color 0.3s ease;
+        }
+        
+        .hero .btn:hover {
+            background-color: #f9f9f9;
+        }
+        
+        /* About Me Section */
+        .about {
+            padding: 60px 20px;
+            background-color: #fff;
+            text-align: center;
+        }
+        
+        .about h2 {
+            font-size: 36px;
+            margin-bottom: 20px;
+        }
+        
+        /* Portfolio Section */
+        .portfolio {
+            padding: 60px 20px;
+            background-color: #f4f4f4;
+            text-align: center;
+        }
+        
+        .portfolio h2 {
+            font-size: 36px;
+            margin-bottom: 20px;
+        }
+        
+        .portfolio-grid {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 20px;
+        }
+        
+        .portfolio-item {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            width: 300px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        
+        .portfolio-item img {
+            width: 100%;
+            border-radius: 8px;
+        }
+        
+        /* Contact Section */
+        .contact {
+            padding: 60px 20px;
+            background-color: #fff;
+            text-align: center;
+        }
+        
+        .contact h2 {
+            font-size: 36px;
+            margin-bottom: 20px;
+        }
+        
+        .contact form {
+            max-width: 500px;
+            margin: 0 auto;
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+        }
+        
+        .contact input, .contact textarea {
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            width: 100%;
+        }
+        
+        .contact button {
+            padding: 10px 20px;
+            background-color: #feb47b;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+        
+        .contact button:hover {
+            background-color: #ff7e5f;
+        }
+        @media (max-width:1179px) {
+            body{
+                flex-direction: column;
+            }
+        
+        .sidebar {
+            width: 100%;
+            background-color: #333;
+            color: #fff;
+            padding: 0px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+        
+        .sidebar .logo {
+            text-align: center;
+        }
+        
+        .sidebar nav ul {
+            display: flex;
+            list-style: none;
+            padding: 0;
+            margin-top: 20px;
+            width: 100%;
+            text-align: center;
+        }
+        
+        .sidebar nav ul li {
+            margin: 0px 0;
+        }
+        }
+        </style>
+</head>
+<body>
+    <aside class="sidebar">
+        <div class="logo">
+            <h2>My Portfolio</h2>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About Me</a></li>
+                <li><a href="#portfolio">Portfolio</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </aside>
+
+    <main>
+        <!-- Home Section -->
+        <section id="home" class="hero">
+            <div class="content">
+                <h1>Hi, I'm [Your Name]</h1>
+                <p>A [Your Profession] passionate about [Your Passion].</p>
+                <a href="#portfolio" class="btn">View My Work</a>
+            </div>
+        </section>
+
+        <!-- About Me Section -->
+        <section id="about" class="about">
+            <h2>About Me</h2>
+            <p>[Add your biography, skills, education, and experience here.]</p>
+        </section>
+
+        <!-- Portfolio Section -->
+        <section id="portfolio" class="portfolio">
+            <h2>Portfolio</h2>
+            <div class="portfolio-grid">
+                <div class="portfolio-item">
+                    <img src="project1.jpg" alt="Project 1">
+                    <h3>Project Title 1</h3>
+                    <p>Description of the project.</p>
+                </div>
+                <div class="portfolio-item">
+                    <img src="project2.jpg" alt="Project 2">
+                    <h3>Project Title 2</h3>
+                    <p>Description of the project.</p>
+                </div>
+                <div class="portfolio-item">
+                    <img src="project3.jpg" alt="Project 3">
+                    <h3>Project Title 3</h3>
+                    <p>Description of the project.</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Contact Section -->
+        <section id="contact" class="contact">
+            <h2>Contact Me</h2>
+            <form>
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name" required>
+
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required>
+
+                <label for="message">Message:</label>
+                <textarea id="message" name="message" rows="4" required></textarea>
+
+                <button type="submit">Send</button>
+            </form>
+        </section>
+    </main>
+
+    <script>
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener('click', function(e) {
+            e.preventDefault();
+    
+            document.querySelector(this.getAttribute('href')).scrollIntoView({
+                behavior: 'smooth'
+            });
+        });
+    });
+    </script>
+</body>
+</html>
